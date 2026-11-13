@@ -1,0 +1,109 @@
+genus,species,scientific,place,lon,lat
+Aptenodytes,King penguin,Aptenodytes patagonicus,Falkland Islands,-59.5,-51.8
+Aptenodytes,King penguin,Aptenodytes patagonicus,South Georgia,-36.7,-54.3
+Aptenodytes,King penguin,Aptenodytes patagonicus,Prince Edward & Marion Islands,37.8,-46.9
+Aptenodytes,King penguin,Aptenodytes patagonicus,Crozet Islands,51.8,-46.4
+Aptenodytes,King penguin,Aptenodytes patagonicus,Kerguelen Islands,69.3,-49.3
+Aptenodytes,King penguin,Aptenodytes patagonicus,Heard Island,73.5,-53.1
+Aptenodytes,King penguin,Aptenodytes patagonicus,Macquarie Island,158.9,-54.6
+Eudyptes,Royal penguin,Eudyptes schlegeli,Macquarie Island,158.9,-54.6
+Eudyptes,Royal penguin,Eudyptes schlegeli,Bishop and Clerk Islets,158.9,-55.1
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Falkland Islands,-59.5,-51.8
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Chilean Islands,-74,-54.5
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,South Georgia,-36.7,-54.3
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,South Sandwich Islands,-26.3,-57.8
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,South Orkney Islands,-45.5,-60.6
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,South Shetland Islands,-58.5,-62
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Elephant Island,-55.1,-61.1
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Bouvet Island,3.4,-54.4
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Prince Edward Island,37.8,-46.6
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Marion Island,37.7,-46.9
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Crozet Islands,51.8,-46.4
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Kerguelen Islands,69.3,-49.3
+Eudyptes,Macaroni penguin,Eudyptes chrysolophus,Heard Island,73.5,-53.1
+Eudyptes,Erect-crested penguin,Eudyptes sclateri,Bounty Islands,179.1,-47.7
+Eudyptes,Erect-crested penguin,Eudyptes sclateri,Antipodes Islands,178.8,-49.7
+Eudyptes,Erect-crested penguin,Eudyptes sclateri,Campbell Island,169.2,-52.5
+Eudyptes,Erect-crested penguin,Eudyptes sclateri,Disappointment Island,166.6,-50.6
+Eudyptes,Snares penguin,Eudyptes robustus,Snares Islands,166.6,-48
+Eudyptes,Fiordland penguin,Eudyptes pachyrhynchus,West Coast,169.5,-43.5
+Eudyptes,Fiordland penguin,Eudyptes pachyrhynchus,Fiordland,167.5,-45.5
+Eudyptes,Fiordland penguin,Eudyptes pachyrhynchus,Stewart Island,168,-47
+Eudyptes,Fiordland penguin,Eudyptes pachyrhynchus,Foveaux Strait,168.4,-46.6
+Eudyptes,Western rockhopper penguin,Eudyptes chrysocome chrysocome,Falkland Islands,-59.5,-51.8
+Eudyptes,Western rockhopper penguin,Eudyptes chrysocome chrysocome,Staten Island,-64,-54.8
+Eudyptes,Western rockhopper penguin,Eudyptes chrysocome chrysocome,Diego Ramírez Islands,-68.7,-56.5
+Eudyptes,Western rockhopper penguin,Eudyptes chrysocome chrysocome,Cape Horn region,-67.3,-55.9
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Prince Edward & Marion Islands,37.8,-46.9
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Crozet Islands,51.8,-46.4
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Kerguelen Islands,69.3,-49.3
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Heard & McDonald Islands,73.5,-53.1
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Macquarie Island,158.9,-54.6
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Auckland Islands,166.1,-50.7
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Campbell Island,169.2,-52.5
+Eudyptes,Eastern rockhopper penguin,Eudyptes chrysocome filholi,Antipodes Islands,178.8,-49.7
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Tristan da Cunha,-12.3,-37.1
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Inaccessible Island,-12.7,-37.3
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Nightingale Island,-12.5,-37.4
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Gough Island,-9.9,-40.3
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Amsterdam Island,77.5,-37.8
+Eudyptes,Northern rockhopper penguin,Eudyptes moseleyi,Saint Paul Island,77.5,-38.7
+Spheniscus,African penguin,Spheniscus demersus,Namibia,14.4,-24.5
+Spheniscus,African penguin,Spheniscus demersus,Cape Town region,18.4,-33.9
+Spheniscus,African penguin,Spheniscus demersus,South African south coast,20.5,-34.5
+Spheniscus,African penguin,Spheniscus demersus,Algoa Bay,25.8,-33.8
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Chiloé Island,-73.9,-42.6
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Punta Tombo,-65.1,-44
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Cabo Dos Bahías,-65,-44.9
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Falkland Islands,-59.5,-51.8
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Seno Otway,-71.2,-52.9
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Magdalena Island,-70.6,-52.9
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Tierra del Fuego,-68.5,-54.5
+Spheniscus,Magellanic penguin,Spheniscus magellanicus,Beagle Channel and Cape Horn,-67.3,-55.9
+Spheniscus,Humboldt penguin,Spheniscus humboldti,Isla Foca,-81.1,-5.2
+Spheniscus,Humboldt penguin,Spheniscus humboldti,Central Peru,-77.5,-12
+Spheniscus,Humboldt penguin,Spheniscus humboldti,Northern Chile,-71.3,-29
+Spheniscus,Humboldt penguin,Spheniscus humboldti,Central Chile,-71.6,-33.5
+Spheniscus,Humboldt penguin,Spheniscus humboldti,Chiloé Island,-73.9,-42.6
+Spheniscus,Galápagos penguin,Spheniscus mendiculus,Fernandina Island,-91.5,-0.4
+Spheniscus,Galápagos penguin,Spheniscus mendiculus,Isabela Island north,-91.3,0.1
+Spheniscus,Galápagos penguin,Spheniscus mendiculus,Elizabeth Bay,-91.1,-0.7
+Spheniscus,Galápagos penguin,Spheniscus mendiculus,Santiago and Bartolomé Islands,-90.6,-0.3
+Spheniscus,Galápagos penguin,Spheniscus mendiculus,Floreana Island,-90.4,-1.3
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Falkland Islands,-59.5,-51.8
+Pygoscelis,Gentoo penguin,Pygoscelis papua,South Georgia,-36.7,-54.3
+Pygoscelis,Gentoo penguin,Pygoscelis papua,South Sandwich Islands,-26.3,-57.8
+Pygoscelis,Gentoo penguin,Pygoscelis papua,South Orkney Islands,-45.5,-60.6
+Pygoscelis,Gentoo penguin,Pygoscelis papua,South Shetland Islands,-58.5,-62
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Antarctic Peninsula,-64,-65
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Beagle Channel,-68.3,-54.9
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Prince Edward & Marion Islands,37.8,-46.9
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Crozet Islands,51.8,-46.4
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Kerguelen Islands,69.3,-49.3
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Heard Island,73.5,-53.1
+Pygoscelis,Gentoo penguin,Pygoscelis papua,Macquarie Island,158.9,-54.6
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,South Georgia,-36.7,-54.3
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,South Sandwich Islands,-26.3,-57.8
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,South Orkney Islands,-45.5,-60.6
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,South Shetland Islands,-58.5,-62
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,Elephant Island,-55.1,-61.1
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,Antarctic Peninsula,-64,-65
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,Peter I Island,-90.6,-68.8
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,Bouvet Island,3.4,-54.4
+Pygoscelis,Chinstrap penguin,Pygoscelis antarcticus,Balleny Islands,163,-66.9
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Banks Peninsula,173,-43.8
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,North Otago,170.9,-45
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Otago Peninsula,170.7,-45.8
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Catlins,169.3,-46.5
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Stewart Island,168,-47
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Auckland Islands,166.1,-50.7
+Megadyptes,Yellow-eyed penguin,Megadyptes antipodes,Campbell Island,169.2,-52.5
+Eudyptula,Little penguin,Eudyptula minor,Western Australia,115,-32
+Eudyptula,Little penguin,Eudyptula minor,South Australia,136,-35
+Eudyptula,Little penguin,Eudyptula minor,Victoria,145,-38.5
+Eudyptula,Little penguin,Eudyptula minor,Tasmania,147,-42
+Eudyptula,Little penguin,Eudyptula minor,New South Wales,151.5,-34.5
+Eudyptula,Little penguin,Eudyptula minor,New Zealand,172,-41.5
+Eudyptula,Little penguin,Eudyptula minor,Banks Peninsula,173,-43.8
+Eudyptula,White-flippered penguin,Eudyptula minor albosignata,Banks Peninsula,173,-43.8
+Eudyptula,White-flippered penguin,Eudyptula minor albosignata,Motunau Island,173.1,-43.1
